@@ -1,4 +1,4 @@
-name := "neo4j"
+name := "neo4j-experiments"
 
 version := "1.0"
 
